@@ -9,7 +9,7 @@ import textwrap
 import os
 
 # Set up the Generative AI configuration with the API key
-configure(api_key='AIzaSyBOc7WOykXVHvnU-GsMgCYZwoBqFERjQFI')
+configure(api_key='Your API key')
 
 # Create a Generative Model instance (assuming 'gemini-pro' is a valid model)
 model = GenerativeModel('gemini-pro')
